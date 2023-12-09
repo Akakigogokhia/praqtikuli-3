@@ -1,0 +1,11 @@
+.cartPage-items {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.cartPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

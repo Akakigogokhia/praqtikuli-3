@@ -1,0 +1,10 @@
+.cartItem-image {
+  width: 100%;
+}
+
+.cartItem {
+  width: 20%;
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid black;
+}
